@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>mery</id>
+    <version>2.6.7.20180630</version>
+    <title>Mery</title>
+    <authors>Kuro</authors>
+    <owners>mohemohe tignear</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://www.haijin-boys.com/wiki/ヘルプ:目次#.E8.91.97.E4.BD.9C.E6.A8.A9.E7.AD.89</licenseUrl>
+    <projectUrl>http://www.haijin-boys.com/wiki/</projectUrl>
+    <iconUrl>https://www.haijin-boys.com/wiki/resources/assets/wiki.png</iconUrl>
+    <description>Mery is a simple but powerful text editor.</description>
+    <summary>Mery</summary>
+    <releaseNotes></releaseNotes>
+    <copyright>Kuro</copyright>
+    <tags>Mery text editor</tags>
+  </metadata>
+</package>
