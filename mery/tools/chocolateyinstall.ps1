@@ -54,7 +54,7 @@ $packageArgs = @{
   #silentArgs   = ''             # none; make silent with input macro script like AutoHotKey (AHK)
                                  #       https://chocolatey.org/packages/autohotkey.portable
   silentArgs='/SP- /VERYSILENT /SUPPRESSMSGBOXES'
-  #validExitCodes= @(0) #please insert other valid exit codes here
+  validExitCodes= @(0) #please insert other valid exit codes here
 }
 
 Install-ChocolateyPackage @packageArgs # https://chocolatey.org/docs/helpers-install-chocolatey-package
